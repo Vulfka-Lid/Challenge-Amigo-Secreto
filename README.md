@@ -7,6 +7,7 @@ elegir a alguien de un grupo, ya sea para un sorteo, una presentación o cualqui
 principal es ofrecer una herramienta simple y eficaz para realizar selecciones de forma aleatoria y transparente.
 
 Funcionalidades
+
 Añadir nombres: Permite al usuario introducir nombres en un campo de texto.
 
 Gestión de la lista: Los nombres ingresados se añaden a una lista visible, con la opción de añadir múltiples nombres.
